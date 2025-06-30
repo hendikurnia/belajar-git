@@ -3,3 +3,6 @@ This analysis is created by
 Name: Hendi Kurnia
 Favorite Programming Language Python
 Location: Semarang
+
+Email: hendikurnia@gmail.com
+Edited from Github Web
